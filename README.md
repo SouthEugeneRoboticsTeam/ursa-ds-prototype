@@ -1,5 +1,5 @@
 # URSA_DS_Prototype
-A rough but functional driverstation for the [URSA](https://github.com/southegueneroboticsteam/URSA) robot project to be used until one of the other driverstation programs is finished. 
+A rough but functional driverstation for the [URSA](https://github.com/southeugeneroboticsteam/URSA) robot project to be used until one of the other driverstation programs is finished. 
 
 This driver station is programmed with the Processing IDE, it can run on any computer and the robot can be controlled with a gamepad or the on screen joystick, or with Android mode for Processing it can be run on an Android device and the robot can be controlled with the on screen joystick and on some devices, tilt.
 
