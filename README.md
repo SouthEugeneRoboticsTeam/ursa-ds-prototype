@@ -13,4 +13,4 @@ Get the Android Mode for Processing from the Add Mode option of the dropdown men
 
 Select the Java mode for running on a computer, or the Android mode for running on a phone or tablet. To install on Android, the device needs to have USB debugging enabled. Run the sketch.
 
-See the URSA wiki for information on using the robot.
+See the [URSA wiki](https://github.com/southeugeneroboticsteam/ursa/wiki) for information on using the robot.
